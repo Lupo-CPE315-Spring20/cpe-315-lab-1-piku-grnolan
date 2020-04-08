@@ -1,7 +1,20 @@
 # CPE 315 Lab 1 -- Piku
 
-## Things to include in your README
+## NAME
+* Grace Nolan (I go by Grace.)
 
+## LAB STATUS
+* Lab status = complete
+
+## COMPILE
+* To compile and run (respectively):
+  * 'gcc -o piku piku.s'
+  * './piku'
+
+## QUESTIONS
+* No questions so far!
+
+## Things to include in your README
 * Your name. Indicate if you go by a nickname.
 * Status of your lab
   * Complete, partially complete, incomplete
